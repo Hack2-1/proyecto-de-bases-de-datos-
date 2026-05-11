@@ -1,4 +1,7 @@
--- MySQL dump 10.13  Distrib 8.0.43, for Win64 (x86_64)
+este es el backup que se pedia en el proyecto
+
+
+MySQL dump 10.13  Distrib 8.0.43, for Win64 (x86_64)
 --
 -- Host: localhost    Database: lingua_viva_db
 -- ------------------------------------------------------
